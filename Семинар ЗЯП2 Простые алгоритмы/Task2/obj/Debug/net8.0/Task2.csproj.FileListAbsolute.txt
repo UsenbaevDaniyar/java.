@@ -1,0 +1,15 @@
+D:\Git Lern\Семинар ЗЯП2 Простые алгоритмы\Task2\bin\Debug\net8.0\Task2.exe
+D:\Git Lern\Семинар ЗЯП2 Простые алгоритмы\Task2\bin\Debug\net8.0\Task2.deps.json
+D:\Git Lern\Семинар ЗЯП2 Простые алгоритмы\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+D:\Git Lern\Семинар ЗЯП2 Простые алгоритмы\Task2\bin\Debug\net8.0\Task2.dll
+D:\Git Lern\Семинар ЗЯП2 Простые алгоритмы\Task2\bin\Debug\net8.0\Task2.pdb
+D:\Git Lern\Семинар ЗЯП2 Простые алгоритмы\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Lern\Семинар ЗЯП2 Простые алгоритмы\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+D:\Git Lern\Семинар ЗЯП2 Простые алгоритмы\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+D:\Git Lern\Семинар ЗЯП2 Простые алгоритмы\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+D:\Git Lern\Семинар ЗЯП2 Простые алгоритмы\Task2\obj\Debug\net8.0\Task2.sourcelink.json
+D:\Git Lern\Семинар ЗЯП2 Простые алгоритмы\Task2\obj\Debug\net8.0\Task2.dll
+D:\Git Lern\Семинар ЗЯП2 Простые алгоритмы\Task2\obj\Debug\net8.0\refint\Task2.dll
+D:\Git Lern\Семинар ЗЯП2 Простые алгоритмы\Task2\obj\Debug\net8.0\Task2.pdb
+D:\Git Lern\Семинар ЗЯП2 Простые алгоритмы\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+D:\Git Lern\Семинар ЗЯП2 Простые алгоритмы\Task2\obj\Debug\net8.0\ref\Task2.dll

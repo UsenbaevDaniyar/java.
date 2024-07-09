@@ -1,0 +1,15 @@
+D:\Git Lern\СеминарЗП1\SrminarZP1\bin\Debug\net8.0\SrminarZP1.exe
+D:\Git Lern\СеминарЗП1\SrminarZP1\bin\Debug\net8.0\SrminarZP1.deps.json
+D:\Git Lern\СеминарЗП1\SrminarZP1\bin\Debug\net8.0\SrminarZP1.runtimeconfig.json
+D:\Git Lern\СеминарЗП1\SrminarZP1\bin\Debug\net8.0\SrminarZP1.dll
+D:\Git Lern\СеминарЗП1\SrminarZP1\bin\Debug\net8.0\SrminarZP1.pdb
+D:\Git Lern\СеминарЗП1\SrminarZP1\obj\Debug\net8.0\SrminarZP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Lern\СеминарЗП1\SrminarZP1\obj\Debug\net8.0\SrminarZP1.AssemblyInfoInputs.cache
+D:\Git Lern\СеминарЗП1\SrminarZP1\obj\Debug\net8.0\SrminarZP1.AssemblyInfo.cs
+D:\Git Lern\СеминарЗП1\SrminarZP1\obj\Debug\net8.0\SrminarZP1.csproj.CoreCompileInputs.cache
+D:\Git Lern\СеминарЗП1\SrminarZP1\obj\Debug\net8.0\SrminarZP1.sourcelink.json
+D:\Git Lern\СеминарЗП1\SrminarZP1\obj\Debug\net8.0\SrminarZP1.dll
+D:\Git Lern\СеминарЗП1\SrminarZP1\obj\Debug\net8.0\refint\SrminarZP1.dll
+D:\Git Lern\СеминарЗП1\SrminarZP1\obj\Debug\net8.0\SrminarZP1.pdb
+D:\Git Lern\СеминарЗП1\SrminarZP1\obj\Debug\net8.0\SrminarZP1.genruntimeconfig.cache
+D:\Git Lern\СеминарЗП1\SrminarZP1\obj\Debug\net8.0\ref\SrminarZP1.dll

@@ -1,0 +1,15 @@
+D:\Git Lern\СеминарЗП1\Seminar01\bin\Debug\net8.0\Seminar01.exe
+D:\Git Lern\СеминарЗП1\Seminar01\bin\Debug\net8.0\Seminar01.deps.json
+D:\Git Lern\СеминарЗП1\Seminar01\bin\Debug\net8.0\Seminar01.runtimeconfig.json
+D:\Git Lern\СеминарЗП1\Seminar01\bin\Debug\net8.0\Seminar01.dll
+D:\Git Lern\СеминарЗП1\Seminar01\bin\Debug\net8.0\Seminar01.pdb
+D:\Git Lern\СеминарЗП1\Seminar01\obj\Debug\net8.0\Seminar01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Lern\СеминарЗП1\Seminar01\obj\Debug\net8.0\Seminar01.AssemblyInfoInputs.cache
+D:\Git Lern\СеминарЗП1\Seminar01\obj\Debug\net8.0\Seminar01.AssemblyInfo.cs
+D:\Git Lern\СеминарЗП1\Seminar01\obj\Debug\net8.0\Seminar01.csproj.CoreCompileInputs.cache
+D:\Git Lern\СеминарЗП1\Seminar01\obj\Debug\net8.0\Seminar01.sourcelink.json
+D:\Git Lern\СеминарЗП1\Seminar01\obj\Debug\net8.0\Seminar01.dll
+D:\Git Lern\СеминарЗП1\Seminar01\obj\Debug\net8.0\refint\Seminar01.dll
+D:\Git Lern\СеминарЗП1\Seminar01\obj\Debug\net8.0\Seminar01.pdb
+D:\Git Lern\СеминарЗП1\Seminar01\obj\Debug\net8.0\Seminar01.genruntimeconfig.cache
+D:\Git Lern\СеминарЗП1\Seminar01\obj\Debug\net8.0\ref\Seminar01.dll

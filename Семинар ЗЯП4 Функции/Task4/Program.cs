@@ -3,7 +3,7 @@ void Main()
 {
     int arraySise = ReadInt("Введите размер массива: ");
 
-    if(arraySise > 8 || arraySise < 1)
+    if(arraySise > 18 || arraySise < 1)
     {
         Console.Write("Введено некоректный размер массива");
         return;

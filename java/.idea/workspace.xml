@@ -4,81 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78285d8e-b10a-410f-8772-dce5a37d4bdb" name="Changes" comment="">
+    <list default="true" id="78285d8e-b10a-410f-8772-dce5a37d4bdb" name="Changes" comment="commit">
       <change afterPath="$PROJECT_DIR$/../java/log.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/src/Log.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task4/bin/Debug/net8.0/Task4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task4/bin/Debug/net8.0/Task4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task4/bin/Debug/net8.0/Task4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task4/bin/Debug/net8.0/Task4.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task4/bin/Debug/net8.0/Task4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task4/bin/Debug/net8.0/Task4.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task4/obj/Debug/net8.0/Task4.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task4/obj/Debug/net8.0/Task4.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task4/obj/Debug/net8.0/Task4.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task4/obj/Debug/net8.0/Task4.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task4/obj/Debug/net8.0/Task4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task4/obj/Debug/net8.0/Task4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task4/obj/Debug/net8.0/Task4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task4/obj/Debug/net8.0/Task4.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task4/obj/Debug/net8.0/Task4.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task4/obj/Debug/net8.0/Task4.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task4/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task4/obj/Debug/net8.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task4/obj/Debug/net8.0/ref/Task4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task4/obj/Debug/net8.0/ref/Task4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task4/obj/Debug/net8.0/refint/Task4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Лекция ЗЯП3 Двумерные массивы/Task4/obj/Debug/net8.0/refint/Task4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task1/bin/Debug/net8.0/Task1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task1/bin/Debug/net8.0/Task1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task1/bin/Debug/net8.0/Task1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task1/bin/Debug/net8.0/Task1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task1/bin/Debug/net8.0/Task1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task1/bin/Debug/net8.0/Task1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task1/obj/Debug/net8.0/Task1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task1/obj/Debug/net8.0/Task1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task1/obj/Debug/net8.0/Task1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task1/obj/Debug/net8.0/Task1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task1/obj/Debug/net8.0/Task1.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task1/obj/Debug/net8.0/Task1.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task1/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task1/obj/Debug/net8.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task1/obj/Debug/net8.0/ref/Task1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task1/obj/Debug/net8.0/ref/Task1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task1/obj/Debug/net8.0/refint/Task1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task1/obj/Debug/net8.0/refint/Task1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task4/bin/Debug/net8.0/Task4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task4/bin/Debug/net8.0/Task4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task4/bin/Debug/net8.0/Task4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task4/bin/Debug/net8.0/Task4.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task4/bin/Debug/net8.0/Task4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task4/bin/Debug/net8.0/Task4.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task4/obj/Debug/net8.0/Task4.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task4/obj/Debug/net8.0/Task4.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task4/obj/Debug/net8.0/Task4.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task4/obj/Debug/net8.0/Task4.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task4/obj/Debug/net8.0/Task4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task4/obj/Debug/net8.0/Task4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task4/obj/Debug/net8.0/Task4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task4/obj/Debug/net8.0/Task4.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task4/obj/Debug/net8.0/Task4.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task4/obj/Debug/net8.0/Task4.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task4/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task4/obj/Debug/net8.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task4/obj/Debug/net8.0/ref/Task4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task4/obj/Debug/net8.0/ref/Task4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task4/obj/Debug/net8.0/refint/Task4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task4/obj/Debug/net8.0/refint/Task4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task5/bin/Debug/net8.0/Task5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task5/bin/Debug/net8.0/Task5.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task5/bin/Debug/net8.0/Task5.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task5/bin/Debug/net8.0/Task5.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task5/bin/Debug/net8.0/Task5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task5/bin/Debug/net8.0/Task5.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task5/obj/Debug/net8.0/Task5.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task5/obj/Debug/net8.0/Task5.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task5/obj/Debug/net8.0/Task5.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task5/obj/Debug/net8.0/Task5.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task5/obj/Debug/net8.0/Task5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task5/obj/Debug/net8.0/Task5.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task5/obj/Debug/net8.0/Task5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task5/obj/Debug/net8.0/Task5.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task5/obj/Debug/net8.0/Task5.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task5/obj/Debug/net8.0/Task5.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task5/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task5/obj/Debug/net8.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task5/obj/Debug/net8.0/ref/Task5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task5/obj/Debug/net8.0/ref/Task5.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task5/obj/Debug/net8.0/refint/Task5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП 5 Знакомство с двумерными массивами/Task5/obj/Debug/net8.0/refint/Task5.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/bin/Debug/net8.0/Task4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/bin/Debug/net8.0/Task4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/bin/Debug/net8.0/Task4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/bin/Debug/net8.0/Task4.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/bin/Debug/net8.0/Task4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/bin/Debug/net8.0/Task4.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/obj/Debug/net8.0/Task4.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/obj/Debug/net8.0/Task4.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/obj/Debug/net8.0/Task4.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/obj/Debug/net8.0/Task4.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/obj/Debug/net8.0/Task4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/obj/Debug/net8.0/Task4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/obj/Debug/net8.0/Task4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/obj/Debug/net8.0/Task4.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/obj/Debug/net8.0/Task4.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/obj/Debug/net8.0/Task4.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/obj/Debug/net8.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/obj/Debug/net8.0/ref/Task4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/obj/Debug/net8.0/ref/Task4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/obj/Debug/net8.0/refint/Task4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task4/obj/Debug/net8.0/refint/Task4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task5/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП4 Функции/Task5/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП6 Массивы строки/Task1/bin/Debug/net8.0/Task1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП6 Массивы строки/Task1/bin/Debug/net8.0/Task1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП6 Массивы строки/Task1/bin/Debug/net8.0/Task1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП6 Массивы строки/Task1/bin/Debug/net8.0/Task1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП6 Массивы строки/Task1/bin/Debug/net8.0/Task1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП6 Массивы строки/Task1/bin/Debug/net8.0/Task1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП6 Массивы строки/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП6 Массивы строки/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП6 Массивы строки/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП6 Массивы строки/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП6 Массивы строки/Task1/obj/Debug/net8.0/Task1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП6 Массивы строки/Task1/obj/Debug/net8.0/Task1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП6 Массивы строки/Task1/obj/Debug/net8.0/Task1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП6 Массивы строки/Task1/obj/Debug/net8.0/Task1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП6 Массивы строки/Task1/obj/Debug/net8.0/Task1.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП6 Массивы строки/Task1/obj/Debug/net8.0/Task1.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП6 Массивы строки/Task1/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП6 Массивы строки/Task1/obj/Debug/net8.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП6 Массивы строки/Task1/obj/Debug/net8.0/ref/Task1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП6 Массивы строки/Task1/obj/Debug/net8.0/ref/Task1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Семинар ЗЯП6 Массивы строки/Task1/obj/Debug/net8.0/refint/Task1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Семинар ЗЯП6 Массивы строки/Task1/obj/Debug/net8.0/refint/Task1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/Less1/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/Less1/Robot1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/ProgramRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/Programm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/Robot2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/Task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +29,14 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -120,49 +63,41 @@
     &quot;Application.Aym.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lesson2.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProgramRobot.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task2.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task3.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task4.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task5.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task9.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/Git Lern/java Lesson2/java/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Task2">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.ProgramRobot">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program" />
       <module name="java." />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2" />
-      <module name="java." />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Less1.Task4" />
-      <module name="java." />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Less1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task5" />
+    <configuration name="ProgramRobot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgramRobot" />
       <module name="java." />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -175,13 +110,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task8" />
+      <module name="java." />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task9" />
+      <module name="java." />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.ProgramRobot" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Task9" />
         <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task8" />
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +143,15 @@
       <option name="presentableId" value="Default" />
       <updated>1722180847628</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1723401279766</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723401279766</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,10 +159,20 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
